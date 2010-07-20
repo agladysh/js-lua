@@ -29,8 +29,8 @@ API
 
 ### JS
 
-JSLua.callLua(functionName, args, ...) --> array of return values
+ * `JSLua.callLua(functionName, args, ...) --> array of return values`
 
 ### Lua
 
-JSLua.callJS(functionName, args, ...) --> return value
+ * `JSLua.callJS(functionName, args, ...) --> return value`

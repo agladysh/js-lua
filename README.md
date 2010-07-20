@@ -27,10 +27,20 @@ Note to the library users: everything is built-in, you do not need any of tools 
 API
 ---
 
+(To be implemented)
+
 ### JS
 
  * `JSLua.callLua(functionName, args, ...) --> array of return values`
 
+ * `JSLua.provideFile(path, file_contents_string)`
+
+ * `JSLua.doFile(path)`
+
 ### Lua
 
  * `JSLua.callJS(functionName, args, ...) --> return value`
+
+ * `JSLua.dofile(filename)`
+
+ * `JSLua.loadfile(filename, chunkname)`

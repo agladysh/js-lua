@@ -16,7 +16,7 @@ See the copyright information in the file named `COPYRIGHT`.
 Technologies
 ------------
 
--- Jill, Lua implementation in JAVA (MIT license, http://code.google.com/p/jillcode/)
+-- Jill, Lua implementation in Java (MIT license, http://code.google.com/p/jillcode/)
 
 -- Google Web Toolkit, used as Java to JavaScript compiler (Apache License 2.0, http://code.google.com/webtoolkit/).
 

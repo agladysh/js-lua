@@ -8,8 +8,8 @@ JS-Lua is a JavaScript library which allows you to run Lua
 code in browser (on the client-side). JS-Lua also provides
 means for embedded Lua code to call JavaScript.
 
-JS-Lua is still in its embryonic phase of development.
-An appropriate description would be added later.
+JS-Lua **no longer maintained**. Please use other Lua-in-browser implementation,
+like [lua5.1.js](https://github.com/logiceditor-com/lua5.1.js).
 
 See the copyright information in the file named `COPYRIGHT`.
 
